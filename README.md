@@ -7,8 +7,9 @@ It turns a user's messy daily tasks into a structured workflow:
 1. Collect today's todos
 2. Summarize and confirm priorities
 3. Ask for concrete time slots
-4. Detect spare time, overlaps, overpacked blocks, and unassigned core tasks
-5. Produce a daily plan and review template
+4. Ask for actual completion status later in the day
+5. Detect spare time, overlaps, overpacked blocks, and unassigned core tasks
+6. Compare planned tasks with actual completion
 
 ## Install
 
