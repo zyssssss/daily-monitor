@@ -7,11 +7,13 @@ It turns a user's messy daily tasks into a structured workflow:
 1. Collect today's todos
 2. Summarize and confirm priorities
 3. Ask for concrete time slots
-4. Ask for actual completion status later in the day
-5. Detect spare time, overlaps, overpacked blocks, and unassigned core tasks
-6. Compare planned tasks with actual completion
-7. Produce weekly reviews
-8. Produce monthly reviews
+4. Generate a visual daily tracking page: core task cards, timeline, status board, spare-time view
+5. Sync confirmed plans to Feishu Daily Monitor docs when Feishu/lark-cli is available
+6. Sync clear time-blocked core tasks, meetings, travel, meals, and fixed blocks to Feishu Calendar
+7. Ask for actual completion status later in the day
+8. Compare planned tasks with actual completion and append the review to the same Feishu doc
+9. Produce weekly reviews
+10. Produce monthly reviews
 
 ## Install
 
