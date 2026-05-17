@@ -12,8 +12,9 @@ It turns a user's messy daily tasks into a structured workflow:
 6. Sync clear time-blocked core tasks, meetings, travel, meals, and fixed blocks to Feishu Calendar
 7. Ask for actual completion status later in the day
 8. Compare planned tasks with actual completion and append the review to the same Feishu doc
-9. Produce weekly reviews
-10. Produce monthly reviews
+9. Ask for a rough next-day plan during daily review, save it as tomorrow's pre-plan, and reference it at the next 07:30 planning trigger
+10. Produce weekly reviews
+11. Produce monthly reviews
 
 ## Install
 
